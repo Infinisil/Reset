@@ -3,3 +3,24 @@
 ** Introduction
 
 This will become a place where I put all my ideas I have for how computing systems could work if we wouldn't have to care about backwards compatibility and could start fresh with the knowledge of all the things we have learned ever since.
+
+** Todo
+
+*** General
+
+- Priorities (design first, compatibility second)
+- Discuss other projects that are connected (IPFS, NixOS, Idris, ZeroNet, Ethereum)
+
+*** Ideas
+
+- Unified dependency and cache management
+- Decentralization
+- Type-driven
+- User vs. program generated
+- Direct syntax tree editing
+- ACLs
+- Universal references, CID
+- Continuous update machanism
+- Conform semantic versioning
+- Integrated StackExchange-like platform
+- Examples, tutorials, docs, etc. linked directly to the relevant code
