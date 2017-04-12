@@ -5,13 +5,19 @@
 This will become a place where I put all my ideas I have for how computing systems could work if we wouldn't have to care about backwards compatibility and could start fresh with the knowledge of all the things we have learned ever since.
 
 ** Todo
+*** Meta
+ 
+- Project name (Reset/MovingOn/Future)
+- Project website (Jekyll + GitHub Pages?)
 
 *** General
 
 - Priorities (design first, compatibility second)
-- Discuss other projects that are connected (IPFS, NixOS, Idris, ZeroNet, Ethereum)
+- Discuss other projects that are connected ([[https://ipfs.io][IPFS]], [[https://github.com/ipld/specs][IPLD]], [[https://nixos.org][NixOS]], [[https://www.idris-lang.org][Idris]], [[http://orgmode.org][Org Mode]], [[https://zeronet.io][Zeronet]], [[https://www.ethereum.org][Ethereum]])
+- Generalizing over feature sets
+- What is the end product? An entire OS?
 
-*** Ideas
+*** Ideas to Elaborate
 
 - Unified dependency and cache management
 - Decentralization
@@ -24,3 +30,5 @@ This will become a place where I put all my ideas I have for how computing syste
 - Conform semantic versioning
 - Integrated StackExchange-like platform
 - Examples, tutorials, docs, etc. linked directly to the relevant code
+- Change-tracking diffs, Precision vs. Size
+- Protocol/Specification oriented (Protocol-Protocol?)
