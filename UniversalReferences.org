@@ -1,0 +1,22 @@
+* Universal References
+
+** Introduction
+
+The idea of Universal References (URs) is to *abstract over the origin* of data to have a single representation for all possibilities.
+
+** Other projects
+
+- URI
+- IPLD
+
+** Data sources
+
+- Web page
+- Git repository
+- Server
+- Database
+- ISBN
+
+** Scratch space
+
+It may be a good idea to have our language also be available in URs: Suppose we have some data representing source code from origin ~o~ and a function ~compile~ that compiles the source code, then ~compile o~ would also be an UR of a compiled program. Note that ~compile~ should also take arguments for architecture, etc.
