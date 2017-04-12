@@ -1,0 +1,5 @@
+* Reset
+
+** Introduction
+
+This will become a place where I put all my ideas I have for how computing systems could work if we wouldn't have to care about backwards compatibility and could start fresh with the knowledge of all the things we have learned ever since.
