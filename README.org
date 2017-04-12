@@ -7,17 +7,23 @@ This will become a place where I put all my ideas I have for how computing syste
 ** Todo
 *** Meta
  
-- Project name (Reset/MovingOn/Future)
-- Project website (Jekyll + GitHub Pages?)
+- Maybe change project name (Reset/MovingOn/Future)
+- Maybe needs a project website (Jekyll + GitHub Pages, custom domain)
+- Which license to use
+- How to do collaboration & contribution
+- Project organization: Use GitHub Projects for tracking state of ideas? Wiki page?
+- Abbreviation dictionary?
 
 *** General
 
+- Detailed explanation
 - Priorities (design first, compatibility second)
 - Discuss other projects that are connected ([[https://ipfs.io][IPFS]], [[https://github.com/ipld/specs][IPLD]], [[https://nixos.org][NixOS]], [[https://www.idris-lang.org][Idris]], [[http://orgmode.org][Org Mode]], [[https://zeronet.io][Zeronet]], [[https://www.ethereum.org][Ethereum]])
-- Generalizing over feature sets
+- Generalizing over feature set
 - What is the end product? An entire OS?
+- Potentially define timeline, milestones, goals
 
-*** Ideas to Elaborate
+*** Ideas to elaborate
 
 - Unified dependency and cache management
 - Decentralization
@@ -25,10 +31,11 @@ This will become a place where I put all my ideas I have for how computing syste
 - User vs. program generated
 - Direct syntax tree editing
 - ACLs
-- Universal references, CID
+- Universal references, CID, IPLD, URIs
 - Continuous update machanism
 - Conform semantic versioning
 - Integrated StackExchange-like platform
 - Examples, tutorials, docs, etc. linked directly to the relevant code
 - Change-tracking diffs, Precision vs. Size
-- Protocol/Specification oriented (Protocol-Protocol?)
+- Protocol/specification oriented (protocol-protocol?)
+- Global name register against ambiguity
