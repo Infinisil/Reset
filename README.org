@@ -39,3 +39,4 @@ This will become a place where I put all my ideas I have for how computing syste
 - Change-tracking diffs, Precision vs. Size
 - Protocol/specification oriented (protocol-protocol?)
 - Global name register against ambiguity
+- There is a hash for everything, maybe smaller hashes for more used things
