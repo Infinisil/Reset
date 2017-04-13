@@ -1,0 +1,3 @@
+* Unified dependency and cache management
+
+What doing literally anything on a computer, it requires certain other things to be there. For example the ~curl google.com > web/google.html~ requires: The curl binary (potentially in a compatible version), having an internet connection, the URL "google.com" to be valid, the "web" folder to exist. If any one of these fails, the whole operation fails. Digging deeper, the ~curl~ binary 
