@@ -16,6 +16,14 @@ The idea of Universal References (URs) is to *abstract over the origin* of data 
 - Server
 - Database
 - ISBN
+- IPFS
+- Zeronet
+- Onion
+- Custom data source (needs to provide a function that returns data)
+
+** Lowest common denominator of all possible data
+
+Data has a *type*, often indicated by a file extension. This should be more flexible. There should be a bunch of functions ~serialize : Data -> t~ that can read Data of type ~t~. This means that getting data isn't only the data, but also the function to decode it.
 
 ** Scratch space
 
